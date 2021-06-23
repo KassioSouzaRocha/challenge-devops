@@ -31,11 +31,11 @@ Configurar banco de dados [MySQL](https://www.mysql.com/) na versão 5.7.x.
 ## Requisitos
 
 * Usar a [AWS](https://aws.amazon.com/) como solução em cloud.
-* O servidor deverá ter acesso público somente às portas 22, 80 e 443.
+* O servidor deverão ter acesso público somente às portas 22, 80 e 443.
 * Separar os serviços em containers usando [Docker](https://www.docker.com/).
 * Deverá ter pelo menos 3 containers.¹
 * Os containers deverão ter uma rede com IP fixos.
-* Livre para escolher em usar script para automação, Bash, Python, Ruby e dentre outros ou usar o conceito de IaC, Ansible, Puppet, Chef...
+* Você estará livre para escolher script para automação, Bash, Python, Ruby e dentre outros ou usar o conceito de IaC, Ansible, Puppet, Chef...
 * Documentação técnica.
 ---
 
@@ -51,6 +51,11 @@ Configurar banco de dados [MySQL](https://www.mysql.com/) na versão 5.7.x.
 
 Para realizar o desafio, solicite enviado um email para `devops@fuerzastudio.com.br`com o assunto: *Challenge DevOps* que será enviado às orientações.
 
+---
+
+## Dúvidas
+
+Qualquer dúvida a respeito do desafio entre em contato conosco através do email devops@fuerzastudio.com.br que teremos o maior prazer em esclarecer.
 ---
 
 ¹ Se optar em usar uma instância separada para o MySql como por exemplo, pode-se o mínimo de 2 containers.
