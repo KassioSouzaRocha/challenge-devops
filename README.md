@@ -8,7 +8,7 @@ Desafio para atuação na área de DevOps na [Fuerza Studio](https://fuerzastudi
 
 Uma empresa que está há 11 anos no mercado de tecnologia trabalhando com desenvolvimento web, design e branding. Nosso trabalho já foi reconhecido mundialmente, alcançando inclusive o Vale do Silício nos EUA e também grandes mercados digitais como a Europa e a Ásia.
 Envio abaixo o link do site da empresa para que vocês possam conhecer um pouco mais da nossa história.
-[http://www.fuerzastudio.com.br](http://www.fuerzastudio.com.br)
+[fuerzastudio.com.br](https://www.fuerzastudio.com.br)
 
 ---
 
