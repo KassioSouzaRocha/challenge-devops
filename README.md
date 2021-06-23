@@ -36,7 +36,7 @@ Configurar banco de dados [MySQL](https://www.mysql.com/) na versão 5.7.x.
 * Deverá ter pelo menos 3 containers.¹
 * Os containers deverão ter uma rede com IP fixos.
 * Você estará livre para escolher script para automação, Bash, Python, Ruby e dentre outros ou usar o conceito de IaC, Ansible, Puppet, Chef...
-* Documentação técnica.
+* Ter experiência em realizar documentação técnica.
 ---
 
 ## Diferenciais
@@ -49,14 +49,14 @@ Configurar banco de dados [MySQL](https://www.mysql.com/) na versão 5.7.x.
 
 ## Instruções
 
-Para realizar o desafio, solicite enviado um email para `devops@fuerzastudio.com.br`com o assunto: *Challenge DevOps* que será enviado às orientações.
+Para realizar o desafio, envie um email para `devops@fuerzastudio.com.br` com o assunto: *Challenge DevOps* que serão enviadas maiores orientações a respeito do desafio. Obrigado pelo seu interesse!
 
 ---
 
 ## Dúvidas
 
 Qualquer dúvida a respeito do desafio entre em contato conosco através do email devops@fuerzastudio.com.br que teremos o maior prazer em esclarecer.
----
+
 
 ¹ Se optar em usar uma instância separada para o MySql como por exemplo, pode-se o mínimo de 2 containers.
 
